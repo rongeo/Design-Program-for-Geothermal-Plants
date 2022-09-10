@@ -1,0 +1,13 @@
+﻿Soil Type, Ac 1800h/a,Mean AC 1800h/a,Unit, Ac 2400h/a,Mean AC 2400h/a,Unit,Cooling Capacity,Unit
+Dry sand gravel ,0-25,25,W/m,0-20,20,W/m,0-10,W/m
+Loose dry rock,20–25,22.5,W/m,15–20,17.5,W/m,9–12,W/m
+Dry clay  loam,20–30,25,W/m,20–25,22.5,W/m,12–19,W/m
+Wet clay loam ,35–50,42.5,W/m,30–40,35,W/m,18–25,W/m
+Fine rock with low thermal conduction,40–45,42.5,W/m,35–40,37.5,W/m,21–28,W/m
+Loose water-bearing rock,50–55,52.5,W/m,45–50,47.5,W/m,28–31,W/m
+Calcareous sandstone,55–70,62.5,W/m,45–60,52.5,W/m,28–37,W/m
+Water-bearing sand gravel,65–80,72.5,W/m,55–75,65,W/m,34–40,W/m
+Sandstone,60–70,65,W/m,55–65,60,W/m,34–40,W/m
+Acidic magnetite (e.g. granite),65–80,72.5,W/m,55–70,62.5,W/m,37–43,W/m
+Alkaline magnetite (e.g. basalt),40–65,52.5,W/m,35–55,45,W/m,20–38,W/m
+Gneiss,70–85,77.5,W/m,60–70,65,W/m,35–40,W/m
